@@ -1,6 +1,6 @@
 <div align="center">
 
-# MA$ARI-AI Finance Final year Project
+# MA$ARI-AI Finance Final Year Project
 
 AI-powered personal finance manager built with Next.js. Track income and expenses, create budgets, scan receipts with OCR, and get AI insights to optimize your spending and savings.
 
